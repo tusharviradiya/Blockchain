@@ -16,7 +16,7 @@ decentralized network distributes data and control across multiple, **independen
 
 ## What the hell is blockchain ?
 
-1. what is ledger?
+#### **what is ledger?**
 
 - blockchain use this ledger for save the transaction.
 - ledger is can be in any form text, json, word file
@@ -30,3 +30,13 @@ decentralized network distributes data and control across multiple, **independen
 - block is known as node also.
 - when transaction is done so here public is available, not user name, therefore user privacy is maintained.
 - ex. when one person do transaction so validation request spread all node for validation that person have money or not.
+- in this example we not need to approval of all person, after that this transaction is add with other transaction and create one block and this block is add in blockchain.
+
+### component of blockchain :
+
+- when blockchain works so they use some component so this called component of blockchain.
+
+1. **node :** user of blockchain
+
+   - **full node** : this node have all copy of blockchain, and this full node is do broadcasting(means send message to other node excepts own node), initializing and validation/verify.
+   - **partial node** : this node have note enough memory but this node wants to be a part of blockchain, basically this node contains only header of transaction. and no rights to initializing, broadcasting and validation of transaction.
