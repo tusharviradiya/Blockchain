@@ -114,10 +114,81 @@ decentralized network distributes data and control across multiple, **independen
 
 - **Cryptokitties** :
 
-- **zed run** : 
+- **zed run** :
 
-    - gambling application
+  - gambling application
 
 - **Gambling** :
 
 - this DApps is never goes offline coz this apps run by thousand of computer.
+
+# coin vs token
+
+## coin
+
+- **Native to a blockchain** : They have their own dedicated blockchain, acting as the primary currency for that network. Examples include Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC).
+- **ex.** BTC, ETH
+
+## token
+
+- **Built on top of an existing blockchain** : They don't have their own blockchain and instead operate on existing ones like Ethereum. Examples include ERC-20 tokens on Ethereum, BNB tokens on Binance Smart Chain, and Tether (USDT) on various blockchains.
+- **ex.** ERC20
+
+### type of token
+
+- governance token
+- utility token
+- security token
+
+# what is web 3.0
+
+- emerging vision for the next iteration of the World Wide Web
+- It **aims** to move beyond the current, centralized web (Web 2.0) and towards a more decentralized, open, and user-centric online experience. Here are some key points to understand Web3
+
+## technologys
+
+1. Blockchain
+1. Smart Contracts
+1. Cryptocurrencies
+1. Decentralized autonomous organizations (DAOs)
+
+### basic information about web1 and web2
+
+1. web1.0
+
+   - Users primarily consumed information presented in static web pages.
+   - Limited user interaction: Think basic browsing, reading texts, and maybe filling out forms.
+   - No user-generated content: Information came from website owners only.
+
+1. web2.0
+
+   - Users transitioned from consuming to creating content, leading to more dynamic and interactive websites.
+   - Rise of social media and user-generated content: Blogs, forums, social media platforms allowed users to share their thoughts and creations.
+   - Centralized control: Data and platforms were largely controlled by tech companies.
+
+# what is proof of work?
+
+- proof of work (PoW) serves as a crucial consensus mechanism, ensuring the validity and security of transactions and data stored on the network.
+- PoW requires computational effort from participants, also known as miners, to validate new blocks of transactions and add them to the blockchain.
+- Miners solve complex mathematical puzzles using specialized hardware, and the first miner to crack the puzzle wins the right to add the block.
+
+# sidechains
+
+- Sidechains are separate blockchains that connect to a main blockchain, like Ethereum or Bitcoin, through a two-way bridge.
+- Imagine them as side streets connected to a main highway, offering different functionalities while remaining linked to the main network.
+- sidechains offer a promising solution for scaling blockchains and enabling experimentation.
+- However, it's crucial to understand their benefits and challenges before using them.
+
+# staking
+
+- Crypto staking, as you already know, is a way to earn rewards for holding certain cryptocurrencies.
+- It's like putting your crypto to work instead of just letting it sit in your wallet.
+
+### how it works
+
+- **Proof of stake (PoS) blockchains**: Unlike Proof of work (PoW) where miners solve complex puzzles, PoS relies on stakers to validate transactions.
+- **Locking your crypto**: You "stake" your coins by locking them up in a smart contract on the blockchain, essentially pledging them to support the network.
+- **Validation**: Staked coins act as collateral, incentivizing you to validate transactions honestly.
+- **Rewards**: Based on your stake and contribution to validation, you earn rewards in the form of newly minted coins or transaction fees.
+
+- staking offers an opportunity to earn passive income from your crypto holdings while contributing to the security of the network. However, it's crucial to understand the risks, different options, and tax implications before participating
