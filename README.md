@@ -16,6 +16,12 @@ decentralized network distributes data and control across multiple, **independen
 
 ## What the hell is blockchain ?
 
+#### types of bockchain :
+
+1. public blockchain : ex. bitcoin, ethereum.
+1. private blockchain : this called centralized network, ex. hyper laser fabric, corda.
+1. consortium blockchain : chosen node only validate transaction.
+
 #### **what is ledger?**
 
 - blockchain use this ledger for save the transaction.
@@ -39,4 +45,33 @@ decentralized network distributes data and control across multiple, **independen
 1. **node :** user of blockchain
 
    - **full node** : this node have all copy of blockchain, and this full node is do broadcasting(means send message to other node excepts own node), initializing and validation/verify.
+
+     - **minor** is type of full node
+
    - **partial node** : this node have note enough memory but this node wants to be a part of blockchain, basically this node contains only header of transaction. and no rights to initializing, broadcasting and validation of transaction.
+
+   - **ladger** : contains transaction history.
+
+   1. property of ledger :
+      - distributed ledger
+      - node have same ledger copy
+      - immutability of data
+
+   - **wallet** :
+
+     - wallet have public key and private key.
+     - when we need to do transaction so we share our node's public key not private key.
+     - **type of wallet** :
+
+     1. hot wallet : this wallet is online wallet, use for day to day transaction, connected to internet(problem from hackers)
+     1. cold wallet : not connected to internet, user need to purchase this wallet.
+
+   - **Nonce** (number used only once):
+
+     - in blockchain node is add by minor node(type of full node)
+     - header : this header contain previous node, markable root, timestamp and nonce.
+     - nonce is give number and check difficulty level is less or more.
+
+   - **hash** :
+
+     - header contains hash of previous node.
