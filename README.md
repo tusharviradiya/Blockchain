@@ -226,3 +226,6 @@ decentralized network distributes data and control across multiple, **independen
 - Energy Efficiency
 - Security
 - Scalability
+
+
+# ethereum 2.0
