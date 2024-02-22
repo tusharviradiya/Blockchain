@@ -75,3 +75,49 @@ decentralized network distributes data and control across multiple, **independen
    - **hash** :
 
      - header contains hash of previous node.
+
+# Smart Contracts
+
+- Smart contracts are self-executing contracts with the terms of the agreement between the buyer and the seller being directly written into lines of code.
+- These contracts are stored on a blockchain network and automatically execute and enforce the terms of the agreement when predetermined conditions are met.
+- They operate without the need for intermediaries, such as lawyers or banks, and are tamper-proof and transparent.
+- smart contracts is nothing but if-else things, ex. if my fund is not collected so rest of collected fund is return to people.
+- if you give me 5 coin so i give you 20 candy.
+- they are allow to switching tokens, using smart contracts we switching tokens.
+
+## features of Smart Contract
+
+- Scalability
+- Proof of History (PoH)
+- Tower BFT Consensus
+- Parallel Processing
+- Low Fees and Fast Confirmations
+- Solana Token (SOL)
+
+# DApps
+
+- DApps - decentralized application.
+
+## what makes DApps unique
+
+- Decentralization
+- Transparency
+- Smart Contracts
+
+### example of DApps :
+
+- **Decentralized Finance (DeFi)**:
+  - refers to a rapidly evolving ecosystem of financial applications built on top of public blockchains
+- **Non - fungible Tokens (NFTs)**:
+
+  - Non-Fungible Tokens, have emerged as a unique way to represent ownership of digital assets
+
+- **Cryptokitties** :
+
+- **zed run** : 
+
+    - gambling application
+
+- **Gambling** :
+
+- this DApps is never goes offline coz this apps run by thousand of computer.
