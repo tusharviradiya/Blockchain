@@ -22,4 +22,11 @@ decentralized network distributes data and control across multiple, **independen
 - ledger is can be in any form text, json, word file
 - ledger is store in block, and block contain other thing then ledger.
 - **complete block** : when block fill full, and when block is completed so next new block is generated.
-- all block contains same data copy of every block, and  due to this feature we don't cheat data of blockchain.
+- all block contains same data copy of every block, and due to this feature we don't cheat data of blockchain.
+
+### working of blockchain
+
+- blockchain use ledger for save transaction data.
+- block is known as node also.
+- when transaction is done so here public is available, not user name, therefore user privacy is maintained.
+- ex. when one person do transaction so validation request spread all node for validation that person have money or not.
