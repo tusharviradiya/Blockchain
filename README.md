@@ -346,4 +346,28 @@ decentralized network distributes data and control across multiple, **independen
 | Smart contracts | Limited functionality               | Turing complete                          |
 | Community       | Established, financial focus        | Larger, active developer community       |
 
+### Limitation of stellar :
+
+1. Limited Smart Contract Functionality
+1. Scalability Challenges
+1. Smaller Development Ecosystem
+1. Limited Decentralization
+
+- Stellar does not directly support smart contracts in the same way that Ethereum does.
+- While Stellar offers capabilities for creating decentralized applications and automating certain functionalities, it doesn't have a built-in smart contract language or virtual machine.
+
 ## Soroban's SDKs :
+
+- Soroban, the innovative smart contract platform built on the Stellar network, offers a unique approach to smart contract development.
+- Unlike Ethereum, which utilizes a virtual machine and its own programming language (Solidity), Soroban takes a different path.
+- It leverages WebAssembly (WASM) as its core technology, enabling smart contracts to be written in various languages like Rust and AssemblyScript
+
+#### Advantages :
+
+1. Security
+1. Performance
+1. Familiarity
+
+#### type of soroban's SDKs :
+1. Rust Soroban SDK 
+1. AssemblyScript Soroban SDK
