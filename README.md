@@ -308,16 +308,23 @@ decentralized network distributes data and control across multiple, **independen
 - AMMs represent a significant innovation in the DeFi space, enabling decentralized and efficient trading of digital assets. However, it's important to understand their nuances and potential risks before engaging with them.
 
 # stellar
+- [documentation]("https://developers.stellar.org/docs") : all about this platform and smart contracts.
+
+- Soroban's SDKs allow you to write smart contracts in Rust and interact with smart contracts in a myriad of other languages.
 
 - Stellar is a decentralized, public blockchain that gives developers the tools to create experiences that are more like cash than crypto.
 
+### mission
+
+- reating equitable access to the global financial system through blockchain technology
+
 ### stellar vs ethereum :
 
-| Feature     | Stellar                             | Ethereum                                 |
-| ----------- | ----------------------------------- | ---------------------------------------- |
-| Purpose     | Cross-border payments, tokenization | Smart contracts, various applications    |
-| Technology  | SCP consensus mechanism             | PoW (transitioned to PoS)                |
-| Scalability | High (under development)            | Improving with PoS, but still challenges |
-| Fees        | Very low                            | Can fluctuate, potentially high
-Smart contracts | Limited functionality | Turing complete
-Community | Established, financial focus | Larger, active developer community
+| Feature         | Stellar                             | Ethereum                                 |
+| --------------- | ----------------------------------- | ---------------------------------------- |
+| Purpose         | Cross-border payments, tokenization | Smart contracts, various applications    |
+| Technology      | SCP consensus mechanism             | PoW (transitioned to PoS)                |
+| Scalability     | High (under development)            | Improving with PoS, but still challenges |
+| Fees            | Very low                            | Can fluctuate, potentially high          |
+| Smart contracts | Limited functionality               | Turing complete                          |
+| Community       | Established, financial focus        | Larger, active developer community       |
