@@ -110,7 +110,8 @@ decentralized network distributes data and control across multiple, **independen
   - refers to a rapidly evolving ecosystem of financial applications built on top of public blockchains
 - **Non - fungible Tokens (NFTs)**:
 
-  - Non-Fungible Tokens, have emerged as a unique way to represent ownership of digital assets
+  - Non-Fungible Tokens, have emerged as a unique way to represent ownership of digital assets.
+  - Unlike cryptocurrencies like Bitcoin, which are fungible (meaning any one Bitcoin is identical to another), each NFT is one-of-a-kind and cannot be replicated.
 
 - **Cryptokitties** :
 
@@ -124,12 +125,12 @@ decentralized network distributes data and control across multiple, **independen
 
 # coin vs token
 
-## coin
+### coin
 
 - **Native to a blockchain** : They have their own dedicated blockchain, acting as the primary currency for that network. Examples include Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC).
 - **ex.** BTC, ETH
 
-## token
+### token
 
 - **Built on top of an existing blockchain** : They don't have their own blockchain and instead operate on existing ones like Ethereum. Examples include ERC-20 tokens on Ethereum, BNB tokens on Binance Smart Chain, and Tether (USDT) on various blockchains.
 - **ex.** ERC20
@@ -184,7 +185,7 @@ decentralized network distributes data and control across multiple, **independen
 - Crypto staking, as you already know, is a way to earn rewards for holding certain cryptocurrencies.
 - It's like putting your crypto to work instead of just letting it sit in your wallet.
 
-### how it works
+#### how it works
 
 - **Proof of stake (PoS) blockchains**: Unlike Proof of work (PoW) where miners solve complex puzzles, PoS relies on stakers to validate transactions.
 - **Locking your crypto**: You "stake" your coins by locking them up in a smart contract on the blockchain, essentially pledging them to support the network.
@@ -199,7 +200,7 @@ decentralized network distributes data and control across multiple, **independen
 - As user adoption and transactions surge, main blockchains like Ethereum can become congested, leading to slow processing times and high fees.
 - To address this bottleneck, layer 2 (L2) scaling solutions emerge as clever bypasses, processing transactions off-chain while inheriting the security of the main blockchain.
 
-### How they work
+#### How they work
 
 - **Off-chain processing**: Transactions occur on a separate blockchain or network, distinct from the main chain. This allows for faster and cheaper processing compared to the main chain's limitations.
 
@@ -227,5 +228,48 @@ decentralized network distributes data and control across multiple, **independen
 - Security
 - Scalability
 
-
 # ethereum 2.0
+
+- Ethereum is a decentralized, open-source blockchain platform
+- with a native cryptocurrency called Ether (ETH)
+
+#### is ethereum is cryptocurrency or not ?
+
+- no ethereum is platform for decentralized apps.
+
+# what is an ICO ?
+
+- An Initial Coin Offering (ICO), sometimes referred to as an Initial Currency Offering, was a popular method for early-stage blockchain startups to raise capital in the past.
+
+#### how it works...
+
+- A startup created a new cryptocurrency (token) representing its project or platform.
+- Investors purchased these tokens with other established cryptocurrencies like Bitcoin or Ethereum.
+- The startup used the raised funds to develop its project and potentially reward early investors.
+
+### similarity to IPOs
+
+- Similar to an Initial Public Offering (IPO) in the traditional stock market, ICOs offered early access to a potentially valuable investment.
+- Both served as fundraising mechanisms for new ventures.
+
+# What is Stable Coin ?
+
+- stablecoins offer a unique proposition: stability in value.
+- Unlike Bitcoin and other cryptocurrencies whose prices can fluctuate dramatically.
+- stablecoins aim to maintain a peg to a stable asset like the US dollar or gold, making them more suitable for everyday transactions and financial applications.
+
+#### features
+
+- Price stability
+- Pegging mechanisms.
+
+# What is DEX ?
+
+- DEX, short for Decentralized Exchange
+- represents a distinct platform for trading digital assets compared to traditional centralized exchanges (CEXs).
+
+#### core concept
+
+- **Peer-to-peer trading** : Unlike CEXs where users trade with the exchange itself, DEXs facilitate direct peer-to-peer transactions between users, eliminating the need for a central intermediary.
+- **Blockchain-based** : DEXs leverage blockchain technology to securely record and process transactions, ensuring transparency and immutability.
+- **No central authority** : No single entity controls the platform, promoting decentralization and censorship resistance.
