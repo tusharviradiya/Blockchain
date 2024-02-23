@@ -299,9 +299,25 @@ decentralized network distributes data and control across multiple, **independen
 - Unlike traditional order books where buyers and sellers directly list their bids and asks, AMMs utilize smart contracts and liquidity pools to automate the trading process.
 
 #### Popular AMMs
+
 1. Uniswap
 1. SushiSwap
 1. Curve Finance
 1. PancakeSwap
 
 - AMMs represent a significant innovation in the DeFi space, enabling decentralized and efficient trading of digital assets. However, it's important to understand their nuances and potential risks before engaging with them.
+
+# stellar
+
+- Stellar is a decentralized, public blockchain that gives developers the tools to create experiences that are more like cash than crypto.
+
+### stellar vs ethereum :
+
+| Feature     | Stellar                             | Ethereum                                 |
+| ----------- | ----------------------------------- | ---------------------------------------- |
+| Purpose     | Cross-border payments, tokenization | Smart contracts, various applications    |
+| Technology  | SCP consensus mechanism             | PoW (transitioned to PoS)                |
+| Scalability | High (under development)            | Improving with PoS, but still challenges |
+| Fees        | Very low                            | Can fluctuate, potentially high
+Smart contracts | Limited functionality | Turing complete
+Community | Established, financial focus | Larger, active developer community
