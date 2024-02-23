@@ -357,6 +357,7 @@ decentralized network distributes data and control across multiple, **independen
 - While Stellar offers capabilities for creating decentralized applications and automating certain functionalities, it doesn't have a built-in smart contract language or virtual machine.
 
 ## Soroban's SDKs :
+
 [documentation](https://soroban.stellar.org/docs/category/sdks)
 
 - Soroban, the innovative smart contract platform built on the Stellar network, offers a unique approach to smart contract development.
@@ -370,5 +371,24 @@ decentralized network distributes data and control across multiple, **independen
 1. Familiarity
 
 #### type of soroban's SDKs :
-1. Rust Soroban SDK 
+
+1. Rust Soroban SDK
 1. AssemblyScript Soroban SDK
+
+# blockchain trilemma
+
+- challenge faced by all blockchains: the difficulty in achieving optimal levels
+
+### optimal levels of all three key properties:
+
+1. Decentralization
+1. Security
+1. Scalability
+
+- Unfortunately, achieving all three perfectly is often impossible.
+
+- **Decentralization + Security** : Increased security measures like Proof of Work (PoW) often lead to slower blockchains and higher costs, hindering scalability.
+
+- **Decentralization + Scalability** : Solutions like Proof of Stake (PoS) can improve scalability but might require some trusted validators, impacting pure decentralization.
+
+- **Security + Scalability** : Centralized solutions might offer faster and cheaper transactions but sacrifice the core principles of decentralization and security.
