@@ -307,10 +307,27 @@ decentralized network distributes data and control across multiple, **independen
 
 - AMMs represent a significant innovation in the DeFi space, enabling decentralized and efficient trading of digital assets. However, it's important to understand their nuances and potential risks before engaging with them.
 
-# stellar
+# SDKs
+
+- SDK stands for Software Development Kit
+- It's a collection of tools and resources provided by a platform or software company that enables developers to easily build applications for that platform.
+- Think of it as a toolbox with everything you need to build something specific, like building a house with pre-made walls, windows, and doors instead of starting from scratch with bricks and lumber.
+
+#### here are some key feature.
+
+- **APIs**: Provides access to the core functionality of the platform through Application Programming Interfaces (APIs), allowing developers to integrate features like user authentication, data access, or payment processing into their apps.
+
+- **Documentation and Samples**: Includes detailed documentation explaining how to use the APIs and code samples showcasing common use cases, making it easier for developers to get started.
+
+- **Development Tools**: May include compilers, debuggers, and other tools that streamline the development process and help developers write and test their applications efficiently.
+
+- **Specific to platform or language**: SDKs are typically designed for a specific platform or programming language, ensuring compatibility and smooth integration with the existing system.
+
+# Stellar
+
 - [documentation](https://developers.stellar.org/docs) : all about this platform and smart contracts.
 
-- Soroban's SDKs allow you to write smart contracts in Rust and interact with smart contracts in a myriad of other languages.
+- **Soroban's SDKs** allow you to write smart contracts in Rust and interact with smart contracts in a myriad of other languages.
 
 - Stellar is a decentralized, public blockchain that gives developers the tools to create experiences that are more like cash than crypto.
 
@@ -328,3 +345,5 @@ decentralized network distributes data and control across multiple, **independen
 | Fees            | Very low                            | Can fluctuate, potentially high          |
 | Smart contracts | Limited functionality               | Turing complete                          |
 | Community       | Established, financial focus        | Larger, active developer community       |
+
+## Soroban's SDKs :
