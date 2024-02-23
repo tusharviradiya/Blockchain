@@ -305,4 +305,3 @@ decentralized network distributes data and control across multiple, **independen
 1. PancakeSwap
 
 - AMMs represent a significant innovation in the DeFi space, enabling decentralized and efficient trading of digital assets. However, it's important to understand their nuances and potential risks before engaging with them.
-
