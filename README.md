@@ -108,6 +108,8 @@ decentralized network distributes data and control across multiple, **independen
 
 - **Decentralized Finance (DeFi)**:
   - refers to a rapidly evolving ecosystem of financial applications built on top of public blockchains
+  - It eliminates the need for traditional intermediaries like banks and brokerages, empowering individuals to take control of their financial activities.
+
 - **Non - fungible Tokens (NFTs)**:
 
   - Non-Fungible Tokens, have emerged as a unique way to represent ownership of digital assets.
@@ -273,3 +275,16 @@ decentralized network distributes data and control across multiple, **independen
 - **Peer-to-peer trading** : Unlike CEXs where users trade with the exchange itself, DEXs facilitate direct peer-to-peer transactions between users, eliminating the need for a central intermediary.
 - **Blockchain-based** : DEXs leverage blockchain technology to securely record and process transactions, ensuring transparency and immutability.
 - **No central authority** : No single entity controls the platform, promoting decentralization and censorship resistance.
+
+# Uniswap
+- Uniswap is a decentralized exchange (DEX) built on the Ethereum blockchain.
+- allowing users to swap cryptocurrencies directly with each other without relying on a central intermediary. 
+- This makes it a key player in the DeFi (Decentralized Finance) ecosystem, empowering users with more control over their digital assets.
+
+#### Key Features
+  1. Automated Market Maker (AMM)
+  1. Community-driven
+  1. Community-driven
+  1. Open Source
+
+- Overall, Uniswap is a pioneering DEX offering a unique and powerful way to trade cryptocurrencies. While it comes with challenges, its decentralized nature, diverse functionality, and community governance make it a compelling option for many users. However, it's crucial to understand its features, limitations, and potential risks before engaging with the platform.
