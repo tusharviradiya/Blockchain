@@ -412,3 +412,28 @@ decentralized network distributes data and control across multiple, **independen
 
 1. Rust Soroban SDK
 1. AssemblyScript Soroban SDK
+
+# Sushi & SushiSwap
+
+- SushiSwap, a popular decentralized exchange (DEX), does not operate on its own independent blockchain.
+- Instead, it utilizes the established Ethereum blockchain for its transactions, smart contracts, and overall functionality.
+
+- **SushiSwap** is a DEX, not a blockchain: It exists on top of the Ethereum blockchain, leveraging its infrastructure and security.
+
+- **Sushi(SUSHI)** is the native token of SushiSwap: It primarily functions as a governance token, allowing holders to participate in platform decisions and vote on proposals.
+
+### Ethereum enables SushiSwap's core functionalities:
+
+- **Smart contracts** : SushiSwap utilizes smart contracts for automating various functionalities like trading and liquidity management.
+
+- **Transactions** : All swaps and interactions on SushiSwap are recorded on the Ethereum blockchain, ensuring transparency and immutability.
+
+#### can we create sushiswap dex using stellar ecosystem ?
+
+- No, it's not possible to directly create an exact replica of SushiSwap using the Stellar network and its associated development tools like the Soroban SDK.
+
+- SushiSwap utilizes Solidity, a language specifically designed for the Ethereum Virtual Machine (EVM). 
+
+- Stellar, on the other hand, doesn't have a built-in smart contract language and relies on a different set of tools and functionalities.
+
+- **Building a similar DEX on Stellar** : Consider exploring existing DEXs built on Stellar, such as StellarX or Stoic. These platforms offer functionalities similar to SushiSwap but operate within the Stellar ecosystem, utilizing its native functionalities and tools.
