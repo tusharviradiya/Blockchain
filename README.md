@@ -323,6 +323,44 @@ decentralized network distributes data and control across multiple, **independen
 
 - **Specific to platform or language**: SDKs are typically designed for a specific platform or programming language, ensuring compatibility and smooth integration with the existing system.
 
+# blockchain trilemma
+
+- challenge faced by all blockchains: the difficulty in achieving optimal levels
+
+### optimal levels of all three key properties:
+
+1. Decentralization
+1. Security
+1. Scalability
+
+- Unfortunately, achieving all three perfectly is often impossible.
+
+- **Decentralization + Security** : Increased security measures like Proof of Work (PoW) often lead to slower blockchains and higher costs, hindering scalability.
+
+- **Decentralization + Scalability** : Solutions like Proof of Stake (PoS) can improve scalability but might require some trusted validators, impacting pure decentralization.
+
+- **Security + Scalability** : Centralized solutions might offer faster and cheaper transactions but sacrifice the core principles of decentralization and security.
+
+# Liquidity Exchange
+
+- "Liquidity exchange" can refer to two different things in the financial world
+
+1. Decentralized Liquidity Exchanges (DEXs)
+1. Traditional Liquidity Providers
+
+## Decentralized Liquidity Exchanges (DEXs)
+
+- In the context of cryptocurrencies, "liquidity exchange" often refers to a decentralized liquidity exchange (DEX).
+- These are platforms that enable users to trade cryptocurrencies directly with each other, without relying on a central intermediary.
+- Instead, they use smart contracts and liquidity pools to facilitate transactions.
+
+#### features of DEXs
+
+1. Decentralization
+1. Peer-to-peer trading
+1. Liquidity pools
+1. Automated market makers (AMMs)
+
 # Stellar
 
 - [documentation](https://developers.stellar.org/docs) : all about this platform and smart contracts.
@@ -374,41 +412,3 @@ decentralized network distributes data and control across multiple, **independen
 
 1. Rust Soroban SDK
 1. AssemblyScript Soroban SDK
-
-# blockchain trilemma
-
-- challenge faced by all blockchains: the difficulty in achieving optimal levels
-
-### optimal levels of all three key properties:
-
-1. Decentralization
-1. Security
-1. Scalability
-
-- Unfortunately, achieving all three perfectly is often impossible.
-
-- **Decentralization + Security** : Increased security measures like Proof of Work (PoW) often lead to slower blockchains and higher costs, hindering scalability.
-
-- **Decentralization + Scalability** : Solutions like Proof of Stake (PoS) can improve scalability but might require some trusted validators, impacting pure decentralization.
-
-- **Security + Scalability** : Centralized solutions might offer faster and cheaper transactions but sacrifice the core principles of decentralization and security.
-
-# Liquidity Exchange
-
-- "Liquidity exchange" can refer to two different things in the financial world
-
-1. Decentralized Liquidity Exchanges (DEXs)
-1. Traditional Liquidity Providers
-
-## Decentralized Liquidity Exchanges (DEXs)
-
-- In the context of cryptocurrencies, "liquidity exchange" often refers to a decentralized liquidity exchange (DEX).
-- These are platforms that enable users to trade cryptocurrencies directly with each other, without relying on a central intermediary.
-- Instead, they use smart contracts and liquidity pools to facilitate transactions.
-
-#### features of DEXs
-
-1. Decentralization
-1. Peer-to-peer trading
-1. Liquidity pools
-1. Automated market makers (AMMs)
