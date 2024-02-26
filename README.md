@@ -59,7 +59,7 @@ decentralized network distributes data and control across multiple, **independen
 
    - **wallet** :
 
-     - wallet have public key and private key.
+     - wallet have public key and private key explore in smart contract.
      - when we need to do transaction so we share our node's public key not private key.
      - **type of wallet** :
 
