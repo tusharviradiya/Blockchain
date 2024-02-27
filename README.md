@@ -432,8 +432,8 @@ decentralized network distributes data and control across multiple, **independen
 
 - No, it's not possible to directly create an exact replica of SushiSwap using the Stellar network and its associated development tools like the Soroban SDK.
 
-- SushiSwap utilizes Solidity, a language specifically designed for the Ethereum Virtual Machine (EVM). 
+- SushiSwap utilizes Solidity, a language specifically designed for the Ethereum Virtual Machine (EVM).
 
-- Stellar, on the other hand, doesn't have a built-in smart contract language and relies on a different set of tools and functionalities.
+- **Stellar**, on the other hand, doesn't have a built-in smart contract language and relies on a different set of tools and functionalities.
 
 - **Building a similar DEX on Stellar** : Consider exploring existing DEXs built on Stellar, such as StellarX or Stoic. These platforms offer functionalities similar to SushiSwap but operate within the Stellar ecosystem, utilizing its native functionalities and tools.
