@@ -479,3 +479,90 @@ soroban keys generate --global alice
 
 soroban keys address alice
 ```
+# account creation on stellar laboratory
+
+- go laboratory and open test
+- generate public key and private key.
+```
+Public Key
+GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2
+
+Secret Key
+SD5ZTPC4K7QWYCFSAZBQAJ76LGGXKANBWUSRISLFXKSVHF7Z3DRKHFAZ
+```
+
+- after that explore endpoint > account > single account and pest your public key their and this gives you json file 
+
+```json
+{
+  "_links": {
+    "self": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2"
+    },
+    "transactions": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2/transactions{?cursor,limit,order}",
+      "templated": true
+    },
+    "operations": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2/operations{?cursor,limit,order}",
+      "templated": true
+    },
+    "payments": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2/payments{?cursor,limit,order}",
+      "templated": true
+    },
+    "effects": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2/effects{?cursor,limit,order}",
+      "templated": true
+    },
+    "offers": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2/offers{?cursor,limit,order}",
+      "templated": true
+    },
+    "trades": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2/trades{?cursor,limit,order}",
+      "templated": true
+    },
+    "data": {
+      "href": "https://horizon-testnet.stellar.org/accounts/GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2/data/{key}",
+      "templated": true
+    }
+  },
+  "id": "GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2",
+  "account_id": "GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2",
+  "sequence": "1516441283067904",
+  "subentry_count": 0,
+  "last_modified_ledger": 353074,
+  "last_modified_time": "2024-02-28T05:00:52Z",
+  "thresholds": {
+    "low_threshold": 0,
+    "med_threshold": 0,
+    "high_threshold": 0
+  },
+  "flags": {
+    "auth_required": false,
+    "auth_revocable": false,
+    "auth_immutable": false,
+    "auth_clawback_enabled": false
+  },
+  "balances": [
+    {
+      "balance": "10000.0000000",
+      "buying_liabilities": "0.0000000",
+      "selling_liabilities": "0.0000000",
+      "asset_type": "native"
+    }
+  ],
+  "signers": [
+    {
+      "weight": 1,
+      "key": "GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2",
+      "type": "ed25519_public_key"
+    }
+  ],
+  "data": {},
+  "num_sponsoring": 0,
+  "num_sponsored": 0,
+  "paging_token": "GCALOY5N2NIIWYE5N6DBDUUXHNPOYYIUUDVFKINIHN3IOSVOLOUUMJH2"
+}
+```
