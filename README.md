@@ -437,3 +437,45 @@ decentralized network distributes data and control across multiple, **independen
 - **Stellar**, on the other hand, doesn't have a built-in smart contract language and relies on a different set of tools and functionalities.
 
 - **Building a similar DEX on Stellar** : Consider exploring existing DEXs built on Stellar, such as StellarX or Stoic. These platforms offer functionalities similar to SushiSwap but operate within the Stellar ecosystem, utilizing its native functionalities and tools.
+
+# installation of required things
+
+1. Install Rust
+
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+2. Install the target
+
+```
+rustup target add wasm32-unknown-unknown
+```
+
+3. Configure an Editor
+
+- Visual Studio Code editor.
+- Rust Analyzer for Rust language support.
+- CodeLLDB for step-through-debugging.
+
+4. Install the Soroban CLI
+
+```
+cargo install --locked --version 20.3.0 soroban-cli
+```
+
+5. Configuring the CLI for Testnet
+
+```
+soroban config network add --global testnet \
+  --rpc-url https://soroban-testnet.stellar.org:443 \
+  --network-passphrase "Test SDF Network ; September 2015"
+```
+
+6. Configure an Identity
+
+```
+soroban keys generate --global alice
+
+soroban keys address alice
+```
