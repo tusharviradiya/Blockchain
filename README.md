@@ -616,3 +616,26 @@ SD5ZTPC4K7QWYCFSAZBQAJ76LGGXKANBWUSRISLFXKSVHF7Z3DRKHFAZ
 1. **Integration and Ecosystem**: SushiSwap v2 is integrated with various DeFi protocols and projects within the Ethereum ecosystem. This integration enables interoperability between different decentralized applications (dApps) and allows users to access a wide range of DeFi services and functionalities.
 
 1. **Community and Governance**: SushiSwap v2 is governed by its community of users and stakeholders. Decisions regarding protocol upgrades, changes to parameters, and the allocation of resources are made through decentralized governance processes, where SUSHI holders participate in voting and decision-making.
+
+# Sushiswap v3
+
+1. **Multi-Strategy Deployment**:
+   One of the key features of SushiSwap v3 is the concept of "Multi-Strategy Deployment." This feature allows liquidity providers to concentrate their liquidity within customizable price ranges, rather than spreading it across the entire price spectrum. By focusing liquidity within specific price ranges, liquidity providers can optimize their capital deployment and potentially earn higher returns.
+
+1. **Concentrated Liquidity**:
+   While SushiSwap v2 utilizes traditional Automated Market Maker (AMM) pools with concentrated liquidity, SushiSwap v3 takes this concept further by allowing liquidity providers to specify price ranges where they want to concentrate their liquidity. This concentrated liquidity model aims to improve capital efficiency and reduce slippage for traders.
+
+1. **Customizable Fee Tiers**:
+   SushiSwap v3 introduces customizable fee tiers, enabling liquidity providers to set different fee levels for various price ranges within a liquidity pool. This feature allows liquidity providers to adjust fees based on their risk preferences, market conditions, and liquidity concentration strategies.
+
+1. **Liquidity Provision Strategies**:
+   SushiSwap v3 offers liquidity providers the flexibility to deploy various liquidity provision strategies, such as liquidity fracturing and range orders. These strategies allow liquidity providers to optimize their capital allocation and adapt to changing market conditions.
+
+1. **Optimized User Interface (UI)**:
+   SushiSwap v3 features an optimized user interface that provides a seamless experience for liquidity providers and traders. The UI is designed to simplify the process of providing liquidity, managing positions, and accessing advanced trading features.
+
+1. **Enhanced Capital Efficiency**:
+   By allowing liquidity providers to concentrate their liquidity within specific price ranges, SushiSwap v3 aims to improve capital efficiency and reduce capital wastage. This optimization enables liquidity providers to earn higher returns on their capital while providing better trading conditions for users.
+
+1. **Community Governance**:
+   Similar to previous versions, SushiSwap v3 is governed by its community of users and stakeholders. Decisions regarding protocol upgrades, fee structures, and governance parameters are made through decentralized governance processes, where token holders can participate in voting and decision-making.
