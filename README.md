@@ -639,3 +639,4 @@ SD5ZTPC4K7QWYCFSAZBQAJ76LGGXKANBWUSRISLFXKSVHF7Z3DRKHFAZ
 
 1. **Community Governance**:
    Similar to previous versions, SushiSwap v3 is governed by its community of users and stakeholders. Decisions regarding protocol upgrades, fee structures, and governance parameters are made through decentralized governance processes, where token holders can participate in voting and decision-making.
+
