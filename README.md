@@ -640,3 +640,13 @@ SD5ZTPC4K7QWYCFSAZBQAJ76LGGXKANBWUSRISLFXKSVHF7Z3DRKHFAZ
 1. **Community Governance**:
    Similar to previous versions, SushiSwap v3 is governed by its community of users and stakeholders. Decisions regarding protocol upgrades, fee structures, and governance parameters are made through decentralized governance processes, where token holders can participate in voting and decision-making.
 
+# Smart Contract in rust 
+
+### Substrate:
+Substrate is a blockchain development framework created by Parity Technologies. It provides developers with a set of tools and libraries for building custom blockchains tailored to specific use cases.
+
+### Polkadot:
+Polkadot is a multi-chain blockchain platform designed to facilitate interoperability and scalability between different blockchains.
+
+### Kusama:
+Kusama is often referred to as Polkadot's canary network or experimental network. It is a separate blockchain network that serves as a live testing ground for new features, upgrades, and experiments before they are deployed on Polkadot.
