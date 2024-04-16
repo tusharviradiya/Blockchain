@@ -650,3 +650,35 @@ Polkadot is a multi-chain blockchain platform designed to facilitate interoperab
 
 ### Kusama:
 Kusama is often referred to as Polkadot's canary network or experimental network. It is a separate blockchain network that serves as a live testing ground for new features, upgrades, and experiments before they are deployed on Polkadot.
+
+### What is WebAssembly ?
+
+WebAssembly (Wasm) is a binary instruction format and a low-level programming language that serves as a compilation target for high-level languages like C/C++, Rust, and others. It was initially designed as a web standard to run alongside JavaScript in web browsers but has since evolved to be used beyond the web environment.
+
+### what is substrate framework ?
+
+Substrate is a blockchain development framework created by Parity Technologies. It provides developers with a set of tools, libraries, and APIs for building custom blockchain solutions tailored to specific use cases. Substrate is designed to be modular, flexible, and extensible, allowing developers to customize various aspects of their blockchain, including consensus mechanisms, economic models, governance structures, and more.
+
+### what is polkadot ecosystem ?
+
+Polkadot is a multi-chain blockchain platform designed to facilitate interoperability and scalability between different blockchains. It was created by Dr. Gavin Wood, one of the co-founders of Ethereum, and developed by Parity Technologies.
+
+### what is perachain ? 
+
+A parachain, short for "parallelized chain," is a distinct and independent blockchain that connects to the Polkadot network. In the Polkadot ecosystem, parachains play a crucial role in achieving scalability, interoperability, and flexibility.
+
+### what is solo blockchain ?
+
+A "solo blockchain" typically refers to a standalone blockchain network that operates independently without relying on other networks for consensus or data verification. In other words, it's a blockchain that doesn't require interaction with other nodes or chains to validate transactions or maintain its ledger.
+
+### kusama vs polkadot
+
+Kusama and Polkadot are both blockchain platforms created by the same team at Parity Technologies, led by Dr. Gavin Wood. They share many similarities but also have distinct characteristics and purposes within the broader Polkadot ecosystem.
+
+### what is pallet contract ?
+
+A pallet contract, also known simply as a contract pallet, is a module within the Substrate blockchain development framework that allows developers to create and deploy smart contracts on Substrate-based blockchains.
+
+### what is smart contract ?
+
+A smart contract is a self-executing contract with the terms of the agreement directly written into code. It is deployed onto a blockchain platform, where it can automatically enforce and execute the terms of the contract when predefined conditions are met. Smart contracts enable trustless and decentralized agreements between parties, as they are executed and verified by the blockchain network rather than relying on a centralized authority.
