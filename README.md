@@ -682,3 +682,21 @@ A pallet contract, also known simply as a contract pallet, is a module within th
 ### what is smart contract ?
 
 A smart contract is a self-executing contract with the terms of the agreement directly written into code. It is deployed onto a blockchain platform, where it can automatically enforce and execute the terms of the contract when predefined conditions are met. Smart contracts enable trustless and decentralized agreements between parties, as they are executed and verified by the blockchain network rather than relying on a centralized authority.
+
+# application of blockchain
+### Blockchain for banks and the financial industry
+Banks can use the blockchain to move money worldwide faster and cheaper than ever before. The technology allows banks to use an immutable, transparent, distributed ledger that helps reduce settlement times — where cash is transferred between financial institutions — from days to minutes. Blockchain technology accelerates transactions, removes middlemen, reduces human error, and ensures risk-free operations.
+
+### Blockchain for the food and beverage industry
+Did you know that food scandals and outbreaks in the food industry cost billions of dollars annually? For example, more than 23 million people fall ill from eating contaminated food every year, resulting in 5000 deaths. By tracking food with blockchain tech, companies will know where their products come from, who handled them along the way, when and what happened to them.
+
+The food industry can use blockchain to monitor products’ routes and thus, identify contaminated items, track the origin of products, help small farmers get their products to the market faster and cheaper, and much more.
+
+### Blockchain and healthcare
+As healthcare moves increasingly toward cloud-based systems, the need for a secure patient record is becoming more and more critical. Healthcare providers can successfully use blockchain to store patients’ files. This highly secure technology ensures that providers and patients can keep their files accurate, available at all times, and immune to hacking. Patients will have reliable access to their own medical history, preventing forged records.
+
+### Blockchain and small and medium businesses
+Businesses can leverage smart contracts to ensure that their partners or suppliers follow the agreed-upon terms. Instead of each party signing an agreement and sending it back and forth, both parties get to deposit their respective portions of the agreement into a shared, secure smart contract. Thus, there’s no need for additional paperwork or going through a notary/attorney.
+
+### Blockchain in supply chains
+Blockchain is a game-changer for supply chains. It means you’ll always be able to know exactly where your products come from and where they’ve been. This technology ensures the transparency of the supply chain and allows end customers to make well-informed decisions. It can help companies take complete control of their products at every stage, from raw materials to delivery. Moreover, blockchain-enabled traceability allows identifying trustworthy suppliers or finding alternative suppliers fast.
