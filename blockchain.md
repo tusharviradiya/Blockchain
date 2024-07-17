@@ -23,4 +23,37 @@
 - but node size is not like google datastaion, because blockchain is save transaction data not actual data
 
 # hashing algorithm
+- in block : block no., data, previous hash, hash, nonce
+- how hash generated in block, by using SHA 256 algorithm
+- five charecteristic of hash algorithm - when we decrypt data we not able to encrypt it - deterministic(give every time same value) - fast computation - withstands collision - avalanche effect(if you change small thing and hash value is change fully)
+
+# immutable ledger
+- when hecker hack any node/block so then hash change completely using avelanch effect
+- so security is high 
+
+# P2P network
+- centralized network : any server contain all details of connected client or device
+- this P2P network is work like when one node need data so this node request to other node and get data, this data is available mutliple use so if any node is hack so we achive over data from other node.
+- how p2p network works in blockchain : when any miner mine block in blockchain so this miner give message to other that i mine this block and after that all node add that block in blockchain.
+
+# blockchain mining
+- when any traction occur in blockchain so this traction is stored in mempull
+- after that miner get traction and try to add this transaction in block, and for this miner need to solve one methemetical problem like profeofstack or profeofwork
+- after that group of miner check and validate this block and after that add this block in their blockchain after that miner get reward
+
+# byzentine problem in blockchain
+- miguel castro give solution for this
+- solution : if megority of miner say work goes like that if block is validat by mejority of miner so this block is added to blockchain
+
+# consensus protocol
+- this protocol is prevent attacks and solve competing chain problem
+- type of this protocol : proof of work and proof of stake
+
+# compiting chain problem
+- when two or more chains are competing so this problem is called compiting chain problem
+- solution for this is node with long chain is win and add block which long chain have 
+
+# bitcoin
+- bitcoin is a protocol like http
+- token and coin are differant
 - 
