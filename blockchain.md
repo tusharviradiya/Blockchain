@@ -52,8 +52,3 @@
 # compiting chain problem
 - when two or more chains are competing so this problem is called compiting chain problem
 - solution for this is node with long chain is win and add block which long chain have 
-
-# bitcoin
-- bitcoin is a protocol like http
-- token and coin are differant
-- 
