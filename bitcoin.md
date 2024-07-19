@@ -18,3 +18,13 @@
 
 #### bitcoin target history
 - this target is given by algorithm
+
+#### CPU & GPU & ASIC
+- this all are for mining 
+- less miner are use ASIC because this is very costly
+
+#### mining pool 
+- this is a group of miner where big system miner is not dominant the mining
+
+#### nonce range
+- 
