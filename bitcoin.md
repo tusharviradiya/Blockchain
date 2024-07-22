@@ -27,4 +27,9 @@
 - this is a group of miner where big system miner is not dominant the mining
 
 #### nonce range
+
+#### TimeStamp
+- when miner not finding any hash value in given nonce range so we need to give timestamp for solving this problem
+
+#### mempool
 - 
