@@ -32,4 +32,4 @@
 - when miner not finding any hash value in given nonce range so we need to give timestamp for solving this problem
 
 #### mempool
-- 
+- store a panding transaction of blockchain 
