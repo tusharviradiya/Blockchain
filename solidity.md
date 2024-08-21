@@ -44,4 +44,42 @@
 - this problem is solved in 0.8.0 but this problem is in 0.5.0
 
 # Arrary
--
+- fix and dynemic size array two type.
+- arr.lenght this is function which return length of array
+- dynemix size array : 
+
+# bytes array in fixed array
+- this is fixed size array 
+- also this is immutable
+
+# bytes array in dynamic array
+- when we write only bytes so this is dynamic size array
+
+# loops
+- we need to wrap up in fuction otherwise this will give error 
+
+# ifelse and boolen
+- if else is same as other language
+- boolean : bydefault value is false
+
+# structure
+- using this we will create our own datatype
+- using constructor and function both are in remix ide you can check
+
+# Enum
+- use of this is incrase readability of code and give user best experiance
+
+# mapping
+- concept of key and value
+- this is succesor of array because when we need to create 0, 5, 100 index array so we need to use mapping
+- also we map structure like this way and attach at key with many value
+- key cannot be type of mapping, struct, enum, array
+
+# storage vs memory
+- storage is blockchain memory like this will store state variable
+- memory is store local variable
+- storage need gas fee
+- memory no gas fee
+  
+# global variable
+- 
