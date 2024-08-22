@@ -82,4 +82,5 @@
 - memory no gas fee
   
 # global variable
-- 
+global variable is declared at top of the program
+
